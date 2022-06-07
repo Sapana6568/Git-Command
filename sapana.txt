@@ -1,1 +1,11 @@
-jbgjkhhjynjdsbfbdshj
+Git Command
+
+1.	git init
+
+2.	git status
+
+3.	git add .  →add all file
+4.	git commit -m”message”
+
+5.	git log - -oneline → view commit history in oneline.
+6.	git log
